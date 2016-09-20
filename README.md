@@ -1,2 +1,2 @@
-# j
+# J
 Random J code
